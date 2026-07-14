@@ -1,0 +1,11 @@
+{
+  "version": "2.0",
+  "features": {
+    "newFeature": true,
+    "betaMode": false
+  },
+  "settings": {
+    "timeout": 5000,
+    "retries": 3
+  }
+}
